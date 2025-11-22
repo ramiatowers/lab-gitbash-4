@@ -1,0 +1,4 @@
+Lab GitBash punto 4
+Primer archivo creado desde terminal.
+Ramiro
+
